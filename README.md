@@ -4,18 +4,6 @@ Keep in touch with for any kind of technical questions
 
 [Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/techtutorials/shell-scripting-tutorial/tree/FOTV/AWS)
 
-https://techtutorials.github.io/shell-scripting-tutorial/
-
-* [Facebook](https://www.facebook.com/Linuxarkit/)
-* [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
-* [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
-* [Twitter](https://twitter.com/aravikumar48)
-* [Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
-* [Email Address](aravikumar48@gmail.com)
-* [WhatsApp Group](http://bit.ly/wappg)
-* [Linux Telegram Group](http://bit.ly/linux-telegram)
-* [Reddit TechTutorials](http://bit.ly/redditark)
-* [Tumblr](https://www.tumblr.com/blog/aravikumar48)
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
