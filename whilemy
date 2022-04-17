@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#while read line;
+#do
+#echo "$line"
+
+#done < "$1"
+
+
+while IFS=, read resource resourceg; do
+        line1=$resource
+        line2=$resourceg
+#if [[ $line1 = line*  &&  $line2 = line* ]];
+#then
+echo $resource
+echo $resourceg
+#fi
+sleep 3s
+
+done < "$1"
